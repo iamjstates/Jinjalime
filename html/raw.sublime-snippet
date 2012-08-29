@@ -1,0 +1,8 @@
+<snippet>
+    <description>Raw</description>
+    <content><![CDATA[{% raw %}
+        ${1:enter code}
+        {% raw %}]]></content>
+    <tabTrigger>raw</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

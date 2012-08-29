@@ -1,0 +1,6 @@
+<snippet>
+    <description>Default</description>
+    <content><![CDATA[|default('$1')]]></content>
+    <tabTrigger>default</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

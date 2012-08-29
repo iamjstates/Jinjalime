@@ -1,0 +1,6 @@
+<snippet>
+    <description>Forceescape</description>
+    <content><![CDATA[|forceescape('$1')]]></content>
+    <tabTrigger>forceescape</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

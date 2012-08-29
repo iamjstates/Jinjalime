@@ -1,0 +1,8 @@
+<snippet>
+    <description>Call</description>
+    <content><![CDATA[{% call('$1') %}
+        ${2:enter code}
+        {% endcall %}]]></content>
+    <tabTrigger>call</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

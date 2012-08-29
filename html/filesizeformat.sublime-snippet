@@ -1,0 +1,6 @@
+<snippet>
+    <description>File Size Format</description>
+    <content><![CDATA[|filesizeformat('$1')]]></content>
+    <tabTrigger>filesize</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

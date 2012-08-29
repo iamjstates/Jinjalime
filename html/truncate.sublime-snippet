@@ -1,0 +1,6 @@
+<snippet>
+    <description>Truncate</description>
+    <content><![CDATA[|truncate(${1:string}, length=${2:255}, killwords=$3, end='${4:...}')]]></content>
+    <tabTrigger>truncate</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

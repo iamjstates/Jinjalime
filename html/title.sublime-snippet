@@ -1,0 +1,6 @@
+<snippet>
+    <description>Title</description>
+    <content><![CDATA[|title($1)]]></content>
+    <tabTrigger>title</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

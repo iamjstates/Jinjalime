@@ -1,0 +1,6 @@
+<snippet>
+    <description>Groupby</description>
+    <content><![CDATA[|groupby('$1')]]></content>
+    <tabTrigger>groupby</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

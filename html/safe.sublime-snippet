@@ -1,0 +1,6 @@
+<snippet>
+    <description>Safe</description>
+    <content><![CDATA[|safe('$1')]]></content>
+    <tabTrigger>safe</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

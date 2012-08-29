@@ -1,0 +1,6 @@
+<snippet>
+    <description>Escape</description>
+    <content><![CDATA[|escape('$1')]]></content>
+    <tabTrigger>escape</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <description>Auto</description>
+    <content><![CDATA[{% autoescape ${1:True} %}
+        ${2:enter code}
+        {% endautoescape %}]]></content>
+    <tabTrigger>auto</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

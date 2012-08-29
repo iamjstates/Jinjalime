@@ -1,0 +1,6 @@
+<snippet>
+    <description>Abs</description>
+    <content><![CDATA[|abs('$1')]]></content>
+    <tabTrigger>abs</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

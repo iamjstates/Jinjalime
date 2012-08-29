@@ -1,0 +1,6 @@
+<snippet>
+    <description>Format</description>
+    <content><![CDATA[|format('$1')]]></content>
+    <tabTrigger>format</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

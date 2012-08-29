@@ -1,0 +1,6 @@
+<snippet>
+    <description>First</description>
+    <content><![CDATA[|first('$1')]]></content>
+    <tabTrigger>first</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

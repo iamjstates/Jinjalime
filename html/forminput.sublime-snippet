@@ -1,0 +1,6 @@
+<snippet>
+    <description>Form Input</description>
+    <content><![CDATA[{{ input('${1:form}', div=['${2:div}'], attr=['${3:class}','${4:attr}']) }}}]]></content>
+    <tabTrigger>forminput</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

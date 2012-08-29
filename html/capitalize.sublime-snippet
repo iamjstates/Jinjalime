@@ -1,0 +1,6 @@
+<snippet>
+    <description>Capitalize</description>
+    <content><![CDATA[|capitalize('$1')]]></content>
+    <tabTrigger>capitalize</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

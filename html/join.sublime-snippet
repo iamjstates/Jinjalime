@@ -1,0 +1,6 @@
+<snippet>
+    <description>Join</description>
+    <content><![CDATA[|join('$1', attribute=${2:None})]]></content>
+    <tabTrigger>join</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

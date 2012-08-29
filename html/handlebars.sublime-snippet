@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[<script id="${2:sample-template}" type="text/x-handlebars" data-template-name="${1:template-name}">
+    ${0:enter code}
+</script>]]></content>
+    <tabTrigger>handlebars</tabTrigger>
+    <scope>stext.html.jinja</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Batch</description>
+    <content><![CDATA[|batch('$1')]]></content>
+    <tabTrigger>batch</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

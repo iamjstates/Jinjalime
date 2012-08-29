@@ -1,0 +1,6 @@
+<snippet>
+    <description>Round</description>
+    <content><![CDATA[|round('$1')]]></content>
+    <tabTrigger>round</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

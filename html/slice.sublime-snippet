@@ -1,0 +1,6 @@
+<snippet>
+    <description>Slice</description>
+    <content><![CDATA[|slice('$1')]]></content>
+    <tabTrigger>slice</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

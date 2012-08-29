@@ -1,0 +1,6 @@
+<snippet>
+    <description>Indent</description>
+    <content><![CDATA[|indent('$1', indentfirst=${2:False})]]></content>
+    <tabTrigger>indent</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <description>Enumeration</description>
+    <content><![CDATA[{% for $1 in $2 %}
+        ${3:enter code}
+        {% endfor %}]]></content>
+    <tabTrigger>form</tabTrigger>
+    <scope>text.html.jinja</scope>
+</snippet>
